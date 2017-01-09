@@ -25,10 +25,6 @@ var/
 .installed.cfg
 *.egg
 
-# Directories 
-labs/
-IMG/
-.idea/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -93,3 +89,21 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Jingzhe
+*.h5
+*.zip
+udacity_simulator_linux/
+udacity_sdc_simulator_mac.app/
+IMG/
+IMG_udacity/
+IMG_JH/
+support/
+labs/
+.idea/
+keras_logs/
+training_data/
+recorded_data/
+archive/
+sdc-live-trainer/
+solution/
