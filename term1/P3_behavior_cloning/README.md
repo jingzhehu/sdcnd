@@ -26,7 +26,7 @@ and replaces several convolution layers with depth-wise separable convolution la
 
 The resulting model accepts `input` image data tensors of shape `(None, 66, 200, 3)` followed by 5 blocks. Each network block generally contains a convolution layer, a batch normalization layer and a relu activation layer. Blocks 1-2 uses 2D convolution
 layers followed by a max pooling layer while blocks 3-5 opt for depth-wise convolution layer. After average pooling, the results
-would pass through a dropout layer before finally connected to the `output` dense layer `(None, 1)`. The details are listed below.
+would pass through a dropout layer before finally connected to the `output` dense layer `(None, 1)`. The optimizer chosen was `RMSprops` with the initial learning rate set to `0.008`. The network details are listed below.
 
 |Layer (type)                     |Output Shape          |Param #     |Connected to|
 |---------------------------------|----------------------|------------|------------|
