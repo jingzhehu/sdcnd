@@ -93,6 +93,7 @@ ENV/
 # Jingzhe
 *.h5
 *.zip
+*.mov
 udacity_simulator_linux/
 udacity_sdc_simulator_mac.app/
 IMG/
