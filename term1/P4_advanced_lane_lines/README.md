@@ -2,7 +2,7 @@
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 
-Detailed solution is described in ipython notebook `P4_advanced_lane_finding.ipynb`. The output can be found via this [YouTube link](https://youtu.be/tMtePsUuN3A).
+Detailed solution is described in ipython notebook `P4_advanced_lane_finding.ipynb`. The output can be found via this [YouTube link](https://www.youtube.com/watch?v=nnAKGXw9ZR4).
 
 The Project
 ---
